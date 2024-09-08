@@ -143,7 +143,7 @@
 .service1{
     height:224px ;
     width: 370px;
-    border: .5px solid #5669FF;
+    
     align-items: center;
     justify-content: center;
     display: flex;
